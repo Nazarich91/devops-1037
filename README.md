@@ -1,7 +1,7 @@
 # DevOps
 ## Fundamentals - 1037
 My name is Nazar and this is my devops learning repository!
-# I am taught here
+## I am taught here
 - Linux OS
 - Networking
 - IaaS
